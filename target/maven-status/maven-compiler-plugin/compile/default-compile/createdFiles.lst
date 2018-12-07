@@ -1,0 +1,6 @@
+com\articles\entity\Article.class
+com\articles\service\ArtricleService.class
+com\articles\controller\ArticlesController.class
+com\articles\dao\ArticleDAO.class
+com\articles\ArticlesApplication.class
+com\articles\repository\ArticleRepository.class

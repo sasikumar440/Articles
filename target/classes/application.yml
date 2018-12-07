@@ -1,0 +1,7 @@
+# HTTP Server
+server:
+  port: 8383 # HTTP (Tomcat) port
+  servlet.contextPath: /api
+  undertow: 
+    accesslog: 
+      enabled: true

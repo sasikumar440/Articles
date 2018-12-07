@@ -1,0 +1,7 @@
+# HTTP Server
+server:
+  port: 8080  # HTTP (Tomcat) port
+  servlet.contextPath: /v1
+  undertow: 
+    accesslog: 
+      enabled: true
